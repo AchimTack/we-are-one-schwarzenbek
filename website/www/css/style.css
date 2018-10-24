@@ -414,9 +414,9 @@ h4{
 }
 
 .btn-primary {
-  background: #b91215;
-  color: #fff;
-  border: 2px solid #b91215;
+  background: #5AFF22;
+  color: #000000;
+  border: 2px solid #5AFF22;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
   background: #66d8b4 !important;
@@ -424,8 +424,8 @@ h4{
 }
 .btn-primary.btn-outline {
   background: transparent;
-  color: #b91215;
-  border: 2px solid #b91215;
+  color: #5AFF22;
+  border: 2px solid #5AFF22;
 }
 .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
   background: #b91215;
