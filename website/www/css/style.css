@@ -200,7 +200,7 @@ h4{
 }
 #fh5co-header nav li a {
   padding: 20px;
-  color: #202120;
+  color: #5AFF22;
   display: -moz-inline-stack;
   display: inline-block;
   zoom: 1;
@@ -214,7 +214,7 @@ h4{
   -o-transition: 0.5s;
   transition: 0.5s;
   border-bottom: 2px solid transparent;
-  color: #202120;
+  color: #5AFF22;
   display: block;
 }
 @media screen and (max-width: 768px) {
@@ -226,13 +226,13 @@ h4{
   color: white;
 }
 #fh5co-header nav li a:hover span {
-  border-bottom: 2px solid #202120;
+  border-bottom: 2px solid #5AFF22;
 }
 #fh5co-header nav li.fh5co-active a {
-  color: #202120;
+  color: #5AFF22;
 }
 #fh5co-header nav li.fh5co-active a span {
-  border-bottom: 2px solid #202120;
+  border-bottom: 2px solid #5AFF22;
 }
 
 .fh5co-table,
@@ -265,7 +265,7 @@ h4{
   }
 }
 .fh5co-hero .fh5co-intro h1, .fh5co-parallax .fh5co-intro h1 {
-  color: #202120;
+  color: #5AFF22;
   font-size: 70px;
   font-weight: 300;
   margin-bottom: 10px;
@@ -276,7 +276,7 @@ h4{
   }
 }
 .fh5co-hero .fh5co-intro p, .fh5co-parallax .fh5co-intro p {
-  color: #202120;
+  color: #5AFF22;
 }
 .fh5co-hero .fh5co-intro p a, .fh5co-parallax .fh5co-intro p a {
   color: #202120;
