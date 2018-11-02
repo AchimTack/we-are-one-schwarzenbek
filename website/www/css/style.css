@@ -36,7 +36,7 @@ body {
 }
 
 body {
-    background-color:#5AFF22; 
+    background-color:#99fe04; 
 }
 
 .fh5co-feature .fh5co-icon i {
@@ -86,7 +86,7 @@ h3{
 }
 
 h4{
-  color: #5AFF22 ;
+  color: #99fe04 ;
   font-family: inherit;
   font-weight: 400;
   margin: 0 0 30px 0;
@@ -134,10 +134,10 @@ h4{
   left: 0;
   width: 100%;
   z-index: 1;
-  height: 400px;
+  height: 250px;
   background: #202120;
   font-size: 18px;
-  color: #5AFF22 !important;
+  color: #99fe04 !important;
 }
 @media screen and (max-width: 992px) {
   #fh5co-footer {
@@ -153,15 +153,15 @@ h4{
   line-height: 1.5;
 }
 #fh5co-footer h3 {
-  color: #5AFF22;
+  color: #99fe04;
   font-size: 20px;
   font-weight: 500;
 }
 #fh5co-footer a {
-  color: #5AFF22;
+  color: #99fe04;
 }
 #fh5co-footer a:hover {
-  color: #5AFF22;
+  color: #99fe04;
 }
 #fh5co-footer ul {
   padding: 0;
@@ -200,7 +200,7 @@ h4{
 }
 #fh5co-header nav li a {
   padding: 20px;
-  color: #5AFF22;
+  color: #99fe04;
   display: -moz-inline-stack;
   display: inline-block;
   zoom: 1;
@@ -214,7 +214,7 @@ h4{
   -o-transition: 0.5s;
   transition: 0.5s;
   border-bottom: 2px solid transparent;
-  color: #5AFF22;
+  color: #99fe04;
   display: block;
 }
 @media screen and (max-width: 768px) {
@@ -226,13 +226,13 @@ h4{
   color: white;
 }
 #fh5co-header nav li a:hover span {
-  border-bottom: 2px solid #5AFF22;
+  border-bottom: 2px solid #99fe04;
 }
 #fh5co-header nav li.fh5co-active a {
-  color: #5AFF22;
+  color: #99fe04;
 }
 #fh5co-header nav li.fh5co-active a span {
-  border-bottom: 2px solid #5AFF22;
+  border-bottom: 2px solid #99fe04;
 }
 
 .fh5co-table,
@@ -265,7 +265,7 @@ h4{
   }
 }
 .fh5co-hero .fh5co-intro h1, .fh5co-parallax .fh5co-intro h1 {
-  color: #5AFF22;
+  color: #99fe04;
   font-size: 70px;
   font-weight: 300;
   margin-bottom: 10px;
@@ -276,7 +276,7 @@ h4{
   }
 }
 .fh5co-hero .fh5co-intro p, .fh5co-parallax .fh5co-intro p {
-  color: #5AFF22;
+  color: #99fe04;
 }
 .fh5co-hero .fh5co-intro p a, .fh5co-parallax .fh5co-intro p a {
   color: #202120;
@@ -297,7 +297,7 @@ h4{
 
 .fh5co-section {
   padding: 2em 0;
-  background-color: #5AFF22;
+  background-color: #99fe04;
 }
 
 .fh5co-section.xlarge {
@@ -414,9 +414,9 @@ h4{
 }
 
 .btn-primary {
-  background: #5AFF22;
+  background: #99fe04;
   color: #000000;
-  border: 2px solid #5AFF22;
+  border: 2px solid #99fe04;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
   background: #66d8b4 !important;
@@ -424,8 +424,8 @@ h4{
 }
 .btn-primary.btn-outline {
   background: transparent;
-  color: #5AFF22;
-  border: 2px solid #5AFF22;
+  color: #99fe04;
+  border: 2px solid #99fe04;
 }
 .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
   background: #b91215;
