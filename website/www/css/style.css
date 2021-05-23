@@ -615,13 +615,18 @@ a:hover {
   color: #99fe04;
 }
 
+.navbar {
+	border-radius: 0;
+	box-shadow: 0px 3px 3px #0f0f0f;
+}
+
 .navbar-toggle {
-  border: 1px solid #fff;
+  border: 1px solid #99fe04;
   border-radius: 0;
 }
 
 .navbar-toggle span {
-  background: #fff;
+  background: #99fe04;
 }
 
 .bg-1 {
